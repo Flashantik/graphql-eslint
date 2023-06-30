@@ -1,0 +1,17 @@
+{
+  "name": "@graphql-eslint/error",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "graphql": "^16.7.1"
+  },
+  "devDependencies": {
+    "@graphql-eslint/eslint-plugin": "^3.19.1",
+    "eslint": "^8.43.0",
+    "typescript": "^4.8.3"
+  }
+}
