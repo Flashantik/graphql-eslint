@@ -1,5 +1,5 @@
 module.exports = {
-  "schema": "https://rickandmortyapi.com/graphql",
+  "schema": "schema.graphql",
   "documents": [
       "apollo/**/*.gql"
   ],
